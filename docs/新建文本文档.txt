@@ -1,0 +1,3 @@
+ git add .
+git commit -m "Ignore some files"
+git push -u origin gh-pages
