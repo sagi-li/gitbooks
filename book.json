@@ -14,7 +14,9 @@
         "-search",
         "search-pro",
         "donate",
-        "splitter"
+        "splitter",
+        "pageview-count",
+        "katex"
     ],
     "pluginsConfig": {
         "editlink": {
@@ -58,4 +60,5 @@
         "_book",
         "node_modules"
     ]
+
 }
