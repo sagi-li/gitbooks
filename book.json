@@ -16,7 +16,12 @@
         "donate",
         "splitter",
         "pageview-count",
-        "katex"
+        "katex",
+        "lightbox",
+        "popup",
+        "mermaid-gb3",
+        "theme-comscore"
+
     ],
     "pluginsConfig": {
         "editlink": {
